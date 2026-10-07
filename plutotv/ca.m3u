@@ -17,8 +17,6 @@ https://jmp2.uk/plu-6aa2c09cf5f14c2045c7c87a.m3u8
 https://jmp2.uk/plu-6a8d96aa2cfd341eb5809214.m3u8
 #EXTINF:-1 tvg-id="6a8d96996d62a56d3bdd959c" tvg-name="Wired2Fish TV" tvg-logo="https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png",Wired2Fish TV
 https://jmp2.uk/plu-6a8d96996d62a56d3bdd959c.m3u8
-#EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png",Hogan's Heroes
-https://jmp2.uk/plu-6a56adb02f9e0117d78f5b44.m3u8
 #EXTINF:-1 tvg-id="691b023a7613e09a8b209539" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
 #EXTINF:-1 tvg-id="62ea3f8a38acc80007072d26" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png",Pluto TV Horror
@@ -117,6 +115,8 @@ https://jmp2.uk/plu-62e9186f8b685d000773cf58.m3u8
 https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 #EXTINF:-1 tvg-id="62e917b5e354cf0007b97a67" tvg-name="Happy Days" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png",Happy Days
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+#EXTINF:-1 tvg-id="6a56adb02f9e0117d78f5b44" tvg-name="Hogan's Heroes" tvg-logo="https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png",Hogan's Heroes
+https://jmp2.uk/plu-6a56adb02f9e0117d78f5b44.m3u8
 #EXTINF:-1 tvg-id="6a56ae15bd858f210ae007fe" tvg-name="Classic TV Comedy" tvg-logo="https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png",Classic TV Comedy
 https://jmp2.uk/plu-6a56ae15bd858f210ae007fe.m3u8
 #EXTINF:-1 tvg-id="6565fefdc917a50008485cc6" tvg-name="The Beverly Hillbillies" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png",The Beverly Hillbillies
