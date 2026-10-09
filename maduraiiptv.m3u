@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO
-https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",1 INFO [RTMP]
-
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD
 https://srv-i.maduraiiptv.in/live/righttv-hd/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",2 RIGHT TV HD [RTMP]
@@ -266,6 +262,10 @@ ANJAI TV
 #EXTINF:-1 tvg-chno="258" tvg-id="510" tvg-name="ACN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198498.webp" group-title="Entertainment",258 ACN TV
 https://web.applelive.in/stream/acntv/index.m3u8
 #EXTINF:-1 tvg-chno="258" tvg-id="510" tvg-name="ACN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198498.webp" group-title="Entertainment",258 ACN TV [RTMP]
+
+#EXTINF:-1 tvg-chno="259" tvg-id="511" tvg-name="SUPER TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198530.webp" group-title="Entertainment",259 SUPER TV
+https://stream.onecloudlive.in/superstartv/superstarhd/index.m3u8
+#EXTINF:-1 tvg-chno="259" tvg-id="511" tvg-name="SUPER TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1789198530.webp" group-title="Entertainment",259 SUPER TV [RTMP]
 
 #EXTINF:-1 tvg-chno="264" tvg-id="314" tvg-name="AMMAN TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1777716076.webp" group-title="Entertainment",264 AMMAN TV
 https://app.ashokadigital.net/app/78b1bc36/index.m3u8
