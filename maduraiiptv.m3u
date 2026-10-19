@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",1 RIGHT TV HD
+#EXTINF:-1 tvg-chno="1" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1792312052.webp" group-title="Entertainment",1 RIGHT TV HD
 https://srv-i.maduraiiptv.in/live/righttv-hd/index.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://files.catbox.moe/bjqn2m.gif" group-title="Entertainment",1 RIGHT TV HD [RTMP]
+#EXTINF:-1 tvg-chno="1" tvg-id="301" tvg-name="RIGHT TV HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1792312052.webp" group-title="Entertainment",1 RIGHT TV HD [RTMP]
 rtmp://righttv.stream.onecloudlive.in:1935/righttv/live
 #EXTINF:-1 tvg-chno="2" tvg-id="344" tvg-name="INFO" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1786947311.webp" group-title="",2 INFO
 https://deva1.nellaiiptv.com/Mercury/tv/index.m3u8
@@ -1047,9 +1047,9 @@ null
 https://live.mathatv.in/mathatv/mathatv/index.m3u8
 #EXTINF:-1 tvg-chno="854" tvg-id="19" tvg-name="MATHA TV" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1771734641.webp" group-title="Devotional",854 MATHA TV [RTMP]
 null
-#EXTINF:-1 tvg-chno="891" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="",891 AMN
-https://amn.live.onecloudlive.in/amn/amntv/index.m3u8
-#EXTINF:-1 tvg-chno="891" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="",891 AMN [RTMP]
+#EXTINF:-1 tvg-chno="891" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="Entertainment",891 AMN
+https://live.onecloudlive.in/amn/amntv/index.m3u8
+#EXTINF:-1 tvg-chno="891" tvg-id="555" tvg-name="AMN" tvg-logo="" group-title="Entertainment",891 AMN [RTMP]
 
 #EXTINF:-1 tvg-chno="915" tvg-id="353" tvg-name="SANA HD" tvg-logo="https://api.maduraiiptv.in/public/uploads/channel/logos/1782116567.webp" group-title="Entertainment",915 SANA HD
 https://stream.galaxyott.live/live/sanatv/index.m3u8
