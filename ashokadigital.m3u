@@ -152,7 +152,7 @@ https://hls.thendraltv.in/ganeshtv_ade49abb/index.m3u8
 #EXTINF:-1 tvg-id="137" tvg-chno="137" tvg-name="smaxtv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1789969924_PNG.png" group-title="Tamil Nadu Channels",137 smaxtv
 https:/index.m3u8
 #EXTINF:-1 tvg-id="138" tvg-chno="138" tvg-name="LION TV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1790778174_d6f0dc8c-f4bc-4827-a2ee-ac557900c312-Photoroom.png" group-title="Tamil Nadu Channels",138 LION TV
-
+https://rtmphub.in/hls/liontv/live/RJsztYyta6xSghsYCAC2eVdauitieaXY/index.m3u8
 #EXTINF:-1 tvg-id="140" tvg-chno="140" tvg-name="Kavin tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1736878149_KAVIN%20TV.png" group-title="Tamil Nadu Channels",140 Kavin tv
 http://198.144.149.206:8080/NOTV/KAVINTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="147" tvg-chno="147" tvg-name="BSC OLD tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1771731192_bsc%20tv.png" group-title="Tamil Nadu Channels",147 BSC OLD tv
